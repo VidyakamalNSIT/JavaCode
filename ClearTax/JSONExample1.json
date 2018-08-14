@@ -1,0 +1,1 @@
+{"op":"equal","lhs":{"op":"add","lhs":1,"rhs":{"op":"multiply","lhs":"x","rhs":6}},"rhs":20}

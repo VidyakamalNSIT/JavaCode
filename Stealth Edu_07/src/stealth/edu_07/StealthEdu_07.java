@@ -26,7 +26,6 @@ public class StealthEdu_07 {
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();
         str = str.replaceAll("[^A-Za-z0-9]", "").toLowerCase();
-        System.out.println(str);
         StealthEdu_07 SE = new StealthEdu_07();
         System.out.println(SE.checkPalindrom(str)); 
         

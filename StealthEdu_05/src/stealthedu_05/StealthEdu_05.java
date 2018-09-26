@@ -79,7 +79,7 @@ public class StealthEdu_05 {
                 Int_arr[i]=Integer.parseInt(arr[i]);
             }
         }
-        int ch,x=0;
+        int ch,x;
         String Choice;
         
         System.out.println("---------------------Option---------------------");
